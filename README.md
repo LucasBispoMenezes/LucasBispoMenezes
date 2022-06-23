@@ -4,6 +4,8 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 Meu Portifolio: [link aqui](https://vigorous-curie-67a43a.netlify.app/)
 
 
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="400" margin="auto"/>
+
 ## 🌐 Redes Socias:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flaco0x01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-bispo-menezes/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@flaco0x01) 
 
