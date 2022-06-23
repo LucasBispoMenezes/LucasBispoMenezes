@@ -1,28 +1,32 @@
-<h1 align="center">Olá meu nome é Lucas</h1>
-<h3 align="center">Eu sou um estudante de desenvolvimento full-stack na Trybe</h3>
+#  Olá! Eu sou o Lucas Bispo 🖐
 
-- Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. **🌱**
 
-- Estou estudando front-end usando **React, Redux e javascript**
+## 🚀 Sobre mim
+Eu sou um estudante de  desenvolvimento full-stack na trybe
 
-- Meu portfólioa43a .netlify.app/)
 
-### Postagens de blogs
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Conecte-se comigo :</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-bispo-4608a2217/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com /in/lucas-bispo-4608a2217/" height="30" width="40" /></a>
-<a href="https://instagram.com/@flaco0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@flaco0x01" height= "30" largura="40" /></a>
-<a href="https://medium.com/@flaco0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/medium.svg" alt="@flaco0x01" height="30" width="40" /></a>
-</p>
 
-<h3 align="left"> Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www. vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width=" 40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools. com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt ="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" largura="40" altura="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href=" https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" largura ="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark .svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </ a> </p>svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a > </p>svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a > </p></a> </p></a> </p>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vigorous-curie-67a43a.netlify.app/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bispo-menezes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flaco0x01/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbispomenezes&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="lucasbispomenezes" /></p>
+## Tecnologias que eu uso no meu dia
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasbispomenezes&show_icons=true&theme=cobalt&locale=en" alt=" lucasbispomenezes" /></p>
+<div align="center" display="inline">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasbispoMenezes&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasbispoMenezes&layout=compact&langs_count=7&theme=cobalt"/>
+</div><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbispomenezes&theme=dark" alt="lucasbispomenezes" / ></p>
+<div style="display: inline_block" align="center">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt= "jest" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</div><br/>
+
+## Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+![snake gif](https://github.com/LucasBispoMenezes/LucasBispoMenezes/blob/output/github-contribution-grid-snake.svg)
