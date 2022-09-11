@@ -2,7 +2,7 @@
 Olá! Eu sou o Lucas Bispo<br>
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 <br>Sou estudante de Desenvolvimento Full-stack na Trybe.<br>
-Meu Portifolio: [link aqui](https://vigorous-curie-67a43a.netlify.app/)
+<!--Meu Portifolio: [link aqui](https://vigorous-curie-67a43a.netlify.app/) --->
 
 
 <img src="https://octodex.github.com/images/Fintechtocat.png" width="400" margin="auto"/>
