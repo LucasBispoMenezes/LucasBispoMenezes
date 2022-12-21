@@ -91,6 +91,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/LucasBispoMenezes/LucasBispoMenezes/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LucasBispoMenezes/LucasBispoMenezes/output/snake.svg" alt="Snake animation" />
 
 ###
